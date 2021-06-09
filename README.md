@@ -19,7 +19,7 @@ Server: "Your message has been received"
 
 - POP_SMS : The client uses this message to retrieve a pending SMS message. The server returns the first pending SMS message and deletes it from the pending messages list.
 
-Server: <sending user> <SMS message>
+Server: \<sending user> \<SMS message>
 
 If there are no pending SMS messages:
 
