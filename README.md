@@ -35,5 +35,6 @@ The client uses this message to log out. After this message, the client closes t
 - <Invalid message>
 When the client sends a message other than the above, the server replies with "Message not understood".
 
-  
+
+
   The server will store the sent SMS messages until they are delivered to the recipient. However, since the messages are stored in data structures such as List, Map, the messages will be deleted when the server application is closed.
