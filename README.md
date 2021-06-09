@@ -1,4 +1,4 @@
-SMS Message System With Socket
+<b>SMS Message System With Socket</b>
 
 Users will send each other plain text SMS messages using the client module. The server module will mediate the storage and transmission of messages.
 
